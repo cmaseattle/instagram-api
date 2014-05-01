@@ -20,4 +20,5 @@ Try using [this site](http://jelled.com/instagram/lookup-user-id#) to access use
 ##Current Examples
 
 **Javascript** - uses jQuery ajax call and success statement
+
 **PHP** - uses the PHP curl standard for making a call to the API
